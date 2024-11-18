@@ -1,1 +1,4 @@
 I am the first file.
+
+Now I am a changed file.
+
